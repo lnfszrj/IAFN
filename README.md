@@ -1,2 +1,3 @@
 # IAFN
-This is the datasets and codes for the paper.
+
+When our paper is accepted, the datasets and codes will be available.
